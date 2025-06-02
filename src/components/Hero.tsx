@@ -53,7 +53,7 @@ const Hero = () => {
                 <div className="w-full h-full overflow-hidden rounded-xl bg-gray-100 dark:bg-gray-800">
                 <div className="absolute -top-4 -left-4 w-64 h-64 bg-blue-100 dark:bg-blue-900/20 rounded-full filter blur-3xl opacity-40"></div>
                   <img 
-                  src="https://avatars.githubusercontent.com/u/156809582?u=5db36e67f1e67459dd19e20d281fa0787947bbca&v=4" 
+                  src="	https://avatars.githubusercontent.com/u/156809582?…00&u=48d902e966c7a54560c42c058787761757da759f&v=4" 
                   alt="Profile" 
                   className="w-full h-auto rounded-2xl transform transition duration-500 hover:scale-105"
                 />
