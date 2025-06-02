@@ -28,7 +28,7 @@ const Hero = () => {
             
             <div className="mt-10 flex flex-wrap gap-4">
               <a 
-                href="https://drive.google.com/file/d/1l9Jy7RAx-KRvNlebgZjD1V380Af44n5Z/view" 
+                href="https://drive.google.com/file/d/1l9Jy7RAx-KRvNlebgZjD1V380Af44n5Z/view?usp=sharing" 
                 className="px-8 py-3 rounded-full bg-blue-600 text-white font-medium hover:bg-blue-700 transition-colors shadow-md hover:shadow-lg"
               >
                 View Resume
