@@ -25,7 +25,7 @@ const projectsData: Project[] = [
     id: 2,
     title: 'Navarang Readymade',
     description: '•	Developed a responsive website using HTML, CSS, and JavaScript for a women’s clothing store, integrating photo sliders with smooth animations.',
-    image: 'images/front.jpg',
+    image: '/images/front.jpg',
     tags: [ 'CSS', 'HTML', 'JavaScript'],
     liveUrl: 'https://navarang-readyade.vercel.app/',
     githubUrl: 'https://github.com/urstrulysujal/NavarangReadyade',
