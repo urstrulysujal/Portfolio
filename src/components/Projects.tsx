@@ -23,6 +23,15 @@ const projectsData: Project[] = [
   },
   {
     id: 2,
+    title: 'Navarang Readymade',
+    description: '•	Developed a responsive website using HTML, CSS, and JavaScript for a women’s clothing store, integrating photo sliders with smooth animations.',
+    image: 'images/front.jpg',
+    tags: [ 'CSS', 'HTML', 'JavaScript'],
+    liveUrl: 'https://navarang-readyade.vercel.app/',
+    githubUrl: 'https://github.com/urstrulysujal/NavarangReadyade',
+  },
+   {
+    id: 3,
     title: 'Weather App',
     description: 'Real-time weather forecasting application with location-based data and beautiful visualizations.',
     image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -30,6 +39,7 @@ const projectsData: Project[] = [
     liveUrl: 'https://github.com/urstrulysujal/Web-Api',
     githubUrl: 'https://github.com/urstrulysujal/Web-Api',
   }
+ 
  
 ];
 
