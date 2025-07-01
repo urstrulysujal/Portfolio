@@ -36,7 +36,7 @@ const projectsData: Project[] = [
     description: 'Real-time weather forecasting application with location-based data and beautiful visualizations.',
     image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     tags: ['OpenWeather API', 'CSS', 'HTML', 'JavaScript'],
-    liveUrl: 'https://github.com/urstrulysujal/Web-Api',
+    liveUrl: 'https://web-api-mu-rust.vercel.app/',
     githubUrl: 'https://github.com/urstrulysujal/Web-Api',
   }
  
@@ -130,7 +130,7 @@ const Projects = () => {
                     className="flex items-center text-blue-600 dark:text-blue-400 hover:underline font-medium"
                   >
                     <ExternalLink size={16} className="mr-1" />
-                    View Project in GitHub
+                    Live Share
                   </a>
                   
                   <a 
