@@ -30,8 +30,17 @@ const projectsData: Project[] = [
     liveUrl: 'https://navarang-readyade.vercel.app/',
     githubUrl: 'https://github.com/urstrulysujal/NavarangReadyade',
   },
-   {
+  {
     id: 3,
+    title: 'Country API',
+    description: '🌍 Country Explorer: Instantly search for any country and discover key details like population, capital, languages, borders, and more—all in a clean, interactive interface.',
+    image: '/images/Country.jpg',
+    tags: ['Country API', 'CSS', 'HTML', 'JavaScript'],
+    liveUrl: 'https://country-api-sandy.vercel.app/',
+    githubUrl: 'https://github.com/urstrulysujal/Country_API',
+  }, 
+   {
+    id: 4,
     title: 'Weather App',
     description: 'Real-time weather forecasting application with location-based data and beautiful visualizations.',
     image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
@@ -39,7 +48,7 @@ const projectsData: Project[] = [
     liveUrl: 'https://web-api-mu-rust.vercel.app/',
     githubUrl: 'https://github.com/urstrulysujal/Web-Api',
   }
- 
+   
  
 ];
 
